@@ -1,0 +1,14 @@
+name: "igecofip-website"
+navbar:
+  title: "Portale IGECOFIP"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<Alessio.marchetti@mef.gov.it>
+    - icon: fa-github fa-lg
+      href: https://github.com/alessiomar/monitor-entrate.github.io/
+output:
+  html_document:
+    theme: darkly
